@@ -1,0 +1,119 @@
+{
+	"name": "Nagendra Limbu",
+	"email": "nagendra.limbu@outlook.com",
+	"phone": "469-992-7300",
+	"image": "https://avatars1.githubusercontent.com/u/15993030?v=3&s=460",
+	"website": "nagendralimbu.com.np",
+	"linkedin": "www.linkedin.com/nagendralimbu",
+	"github": "www.github.com/nagendralimbu",
+	"twitter": "nagendra.limbu@gmail.com",
+	"twitterURL": "https://twitter.com/nagendralimbu",
+	"summary": "Experienced and progressive software engineer with 5 years of professional experience in development and IT project management roles. Strong ability to analyze processes and determine strategies for improved workflow, efficiency, and team performance. Proactive solution provider with keen insight into implementing modern practices within legacy systems. ",
+	"experiences" : [
+		{
+			"title" : "Full Stack Developer",
+			"period": "2016 - Present",
+			"company": "Vastika Inc",
+			"companyURL": "http://vastika.com",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		},
+		{
+			"title" : "Software Engineer",
+			"period": "2011 - 2015",
+			"company": "ITVillage Technology, Nepal",
+			"companyURL": "http://itvillage.com.np",
+			"details": "My roles and responsibility"
+		}
+	],
+	"projects": [
+		{
+			"name":"Consultant Management System",
+			"url": "http://vastika.com",
+			"detail": "my roles"
+		},
+		{
+			"name":"RWSP Project",
+			"url": "http://itvillage.com",
+			"detail": "my roles"
+		},
+		{
+			"name":"Jwelary Management System",
+			"url": "http://itvillage.com",
+			"detail": "roles and"
+		},
+		{
+			"name":"Employeement Management System",
+			"url": "http://programmingbuddy.club",
+			"detail": "role here"
+		},
+		{
+			"name":"Dental Hospital Management System",
+			"url": "http://birajdentalhospital.com",
+			"detail": "rolses here"
+		}
+	],
+	"skills": [
+		{
+			"name": "Java",
+			"percent": "98%"
+		},
+		{
+			"name": "Javascript & reactJS",
+			"percent": "90%"
+		},
+		{
+			"name": "Angular",
+			"percent": "80%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Spring and Hibernate",
+			"percent": "70%"
+		},
+		{
+			"name": "Sketch & Photoshop",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MSc in Computer Science",
+			"university": "Maharishi University of Management",
+			"period": "2015 - 2018"
+		},
+		{
+			"degree": "BSc in Computer Engineering",
+			"university": "Tribhuwan University",
+			"period": "2006 - 2010"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Professional"
+		},
+		{
+			"name":"Nepali",
+			"details": "Native"
+		},
+		{
+			"name":"Hindi",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Climbing",
+		"watching movie",
+		"Cooking",
+		"Coding"
+	]
+}
+
+
+
+
+
+
